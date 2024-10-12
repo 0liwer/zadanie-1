@@ -5,7 +5,6 @@ public class Main {
         System.out.println("Podaj liczbę: ");
         int inputNumber = scanner.nextInt();
         scanner.close();
-
         System.out.println("Podana liczba to: " + inputNumber);
     }
 }
